@@ -70,7 +70,9 @@ body {
  	text-decoration: none;
 
  }
-
+ #btn1, #btn3{
+ 	line-height: 30px;
+ }
  #btn2{
  	width: 150px;
  }
