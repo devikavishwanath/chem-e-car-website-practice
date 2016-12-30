@@ -3,7 +3,7 @@
 	/*border: solid;*/	
 }
 h1{
-  font-family: 'Roboto';  
+  font-family: 'Roboto', sans-serif;  
   text-transform: uppercase; 
   letter-spacing: -1.5px;
   font-size: 50px;
@@ -26,7 +26,7 @@ h1{
 
 
 h2{
-  font-family: 'Roboto';  
+  font-family: 'Roboto', sans-serif;  
   letter-spacing: -1.5px;
   font-size: 35px;
   font-weight: 100;
@@ -57,7 +57,7 @@ body {
  	margin-bottom: 0px;
  	padding: 2px;
  	border: 2px solid #528b8b;
- 	font-family: 'Roboto';
+ 	font-family: 'Roboto', sans-serif;
  	font-size: 20px;
  	font-weight: 100px;
  	color: #ffffff;
@@ -85,7 +85,7 @@ body {
  }
 
 h3{
-	font-family:'Roboto', serif;
+	font-family:'Roboto', sans-serif;
 	color: #000000;
 	font-weight: 300;
 	font-size: 35px;
@@ -95,7 +95,7 @@ h3{
 }
 
 ul{
-	font-family:'Roboto', serif;
+	font-family:'Roboto', sans-serif;
 	color: #7e7e7e;
 	font-weight: 300;
 	font-size: 18px;
